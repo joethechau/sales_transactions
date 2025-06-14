@@ -1,5 +1,5 @@
 
-<h3>3: Sales Transactions Data Analysis - R, Excel</h3>
+<h3> Sales Transactions Data Analysis - R, Excel</h3>
 
 <p><strong>Analyzed customer transactions data using R to explore regional sales patterns, identify outliers, compare product performance, and test statistical hypotheses.</strong></p>
 
